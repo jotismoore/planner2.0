@@ -1,0 +1,5 @@
+node_modules
+.idea
+stormpath.yml
+*-compiled.js
+*-compiled.js.map

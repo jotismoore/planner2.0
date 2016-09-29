@@ -1,0 +1,49 @@
+{
+  "name": "planner2.0",
+  "version": "1.0.0",
+  "description": "New planner using ReactJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jotismoore@github.com/jotismoore/planner2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotismoore/planner2.0/issues"
+  },
+  "homepage": "https://github.com/jotismoore/planner2.0#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-runtime": "^6.11.6",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "es6": "0.0.7",
+    "express": "^4.14.0",
+    "express-stormpath": "^3.1.5",
+    "history": "^4.2.0",
+    "jsx": "^0.9.89",
+    "react": "^15.3.2",
+    "react-document-title": "^2.0.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "react-stormpath": "^1.3.1",
+    "stormpath": "^0.18.5",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.8.3"
+  }
+}
